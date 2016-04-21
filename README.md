@@ -8,12 +8,12 @@ Notes for each method:
 
 Bisection Method:
 
-You need to make sure the root you are trying to find lies between the two points given and also in a reasonable domain.
+* You need to make sure the root you are trying to find lies between the two points given and also in a reasonable domain.
 
 Newton's Method: 
 
-This will require use of the first derivative.
+* This will require use of the first derivative.
 
 Secant Method:
 
-This requires entering two x values. If values are not in correct domain, may not converge.
+* This requires entering two x values. If values are not in correct domain, may not converge.
